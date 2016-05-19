@@ -4,5 +4,5 @@
 > How are you?
 I'm fine, and you?
 
-> Good. 
-> How old are you?
+> Not OK:(
+> Bye.
